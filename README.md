@@ -6,3 +6,9 @@
 * select.sql Runs specific queries
 * update.sql Updates the database
 * delete.sql Performs some removal operations
+
+***
+
+Vakaris Paulavičius
+
+Version 1.0
